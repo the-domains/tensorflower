@@ -1,0 +1,28 @@
+name: TensorFlower
+favicon: null
+layout_spectrum: 0.32155730784870684
+typography_spectrum: 0.6965045596007258
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.2832303682807833
+  lightness: 0.4437271181959659
+  saturation: 0.27660826803185046
+  rhythmicContrast: 0.36369418003596365
+purpose: []
